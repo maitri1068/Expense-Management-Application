@@ -1,0 +1,14 @@
+.categorybg {
+    background-color: #f4e3fb;
+    height: auto;
+}
+
+.containerrr {
+    background-color: #faf2fd;
+    margin-top: 30px;
+    padding: 30px;
+    border: 2px solid #efc6ff;
+    border-radius: 10px;
+    text-align: center;
+
+}

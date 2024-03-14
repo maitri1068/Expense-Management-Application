@@ -1,0 +1,46 @@
+.menu:hover {
+    background-color: #f4e3fb;
+    border: 2px solid rgb(242, 228, 255);
+    border-radius: 10px;
+}
+
+.menu.active {
+    background-color: #ecd4f6;
+    border: 2px solid rgb(247, 239, 255);
+    border-radius: 10px;
+}
+
+.menu {
+    /* height: 30px; */
+    padding: 10px;
+    margin: 2px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+}
+
+.body {
+    background-color: #f4e3fb;
+}
+
+@media only screen and (min-height:600px) {
+    .body {
+        min-height: 695px;
+    }
+}
+
+.container {
+    background-color: #faf4fc;
+    border: 2px solid #efc6ff;
+    border-radius: 10px;
+}
+
+.header {
+    background-color: #f1daf9;
+    border: 2px solid #f1daf9;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

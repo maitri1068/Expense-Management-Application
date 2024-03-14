@@ -1,0 +1,22 @@
+.bodyy {
+    background-color: #3d0e4c;
+    max-height: 850px;
+
+}
+
+.shapee {
+    min-height: 695px;
+    width: 1000px;
+    background-color: #501a62;
+
+    border-top-right-radius: 60%;
+    border-bottom-right-radius: 50%;
+
+}
+
+
+
+.form {
+    background-color: #e3cbeb;
+    margin: 20px;
+}

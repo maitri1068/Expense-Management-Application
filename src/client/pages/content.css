@@ -1,0 +1,22 @@
+.slogan {
+    font-family: 'Merriweather', serif;
+}
+
+.shape {
+    max-height: 500px;
+
+    max-width: 750px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #f4eefe;
+    border-radius: 50%;
+    border-top-left-radius: 90%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 60%;
+
+}
+
+.body {
+    /* background-color: #fefbff; */
+    background-image: linear-gradient(to bottom, #f1cbfc, #ffffff)
+}

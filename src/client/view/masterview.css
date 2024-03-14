@@ -1,0 +1,11 @@
+.form {
+    padding: 15px;
+    background-color: #f6e6fc;
+    border: 2px solid #f5daff;
+    border-radius: 10px;
+}
+
+.expensecontainer {
+    padding: 10px;
+
+}
